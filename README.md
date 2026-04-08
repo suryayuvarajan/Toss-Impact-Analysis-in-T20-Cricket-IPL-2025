@@ -57,11 +57,11 @@ Winning the toss provides a **noticeable but not decisive advantage** in T20 cri
 ## 📸 Dashboard Preview
 
 ### Page 1 – Toss Impact Overview
-![Page 1](images/page1.png)
+![Page 1](page1.png)
 
 
 ### Page 2 – Deep Dive Analysis
-![Page 2](images/page2.png)
+![Page 2](page2.png)
 
 ---
 
